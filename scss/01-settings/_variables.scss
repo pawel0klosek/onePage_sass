@@ -1,0 +1,25 @@
+//PLIK ZE ZMIENNYMI GLOBALNYMI!!!!
+//colors
+$color-white: #eff0f3;
+$color-red: #74030e;
+$color-green: #132601;
+
+$color-bg-section: #504533;
+
+$color-bg-footer: #201b13;
+
+//font base
+$font-base: 10px;
+
+//grid-siatka
+$grid-base: $font-base;
+
+//odstępy w gridzie
+$gutter: 1.5 * $gird-base;
+
+//break point - medium do rwd/media queries
+$bp-md: 768px;
+
+// break point - large 
+$bp-lg: 1240px;
+
